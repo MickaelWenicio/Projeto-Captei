@@ -75,7 +75,7 @@ Para rodar a aplicação, use:
 ```sh
 npm start
 ```  
-Agora a aplicação estará rodando! 🎉 O projeto criará os índices, banco e tabelas necessárias.  
+Agora a aplicação estará rodando! 🎉 O projeto criará o índice, banco e tabelas necessárias.  
 
 ---  
 
