@@ -1,6 +1,5 @@
 import { Client } from '@elastic/elasticsearch';
 import dotenv from 'dotenv';
-import fs from 'fs';
 
 // Carregar variáveis de ambiente
 dotenv.config();
