@@ -24,7 +24,7 @@ git clone https://github.com/MickaelWenicio/Projeto-Captei.git
 ```
 Em seguida, entre na pasta do projeto:  
 ```sh
-cd nome-do-repositorio
+cd Projeto-Captei
 ```
 
 ---  
@@ -43,7 +43,7 @@ cd nome-do-repositorio
 1. Baixe o Elasticsearch pelo [site oficial](https://www.elastic.co/downloads/elasticsearch).  
 2. Extraia o conteúdo do arquivo baixado para um diretório de sua escolha.  
 3. Acesse a pasta extraída e entre no diretório **bin**, clique duas vezes no arquivo `elasticsearch.bat`.  
-4. Aguarde finalizar o processo, e após finalizado, **feche o elasticsearch(cmd)**.  
+4. Aguarde finalizar o processo, e após finalizado, **feche o elasticsearch**.  
 5. No diretório do **projeto**, abra a pasta `elasticsearch`.    
    - Dentro dela, existe apenas uma pasta chamada **`config`** com um arquivo.  
 6. **Copie** esse arquivo.  
@@ -75,7 +75,7 @@ Para rodar a aplicação, use:
 ```sh
 npm start
 ```  
-Agora a aplicação estará rodando! 🎉 O projeto criará os índices, banco e tabelas necessárias.  
+Agora a aplicação estará rodando! 🎉 O projeto criará o índice, banco e tabelas necessárias.  
 
 ---  
 
