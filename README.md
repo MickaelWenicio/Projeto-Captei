@@ -20,7 +20,7 @@ Antes de iniciar, certifique-se de ter os seguintes softwares instalados:
 ### 1️⃣ Clonar o repositório  
 Primeiro, abra o terminal e execute o comando abaixo para clonar o repositório do projeto:  
 ```sh
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/MickaelWenicio/Projeto-Captei.git
 ```
 Em seguida, entre na pasta do projeto:  
 ```sh
