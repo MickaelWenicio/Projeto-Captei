@@ -24,7 +24,7 @@ git clone https://github.com/MickaelWenicio/Projeto-Captei.git
 ```
 Em seguida, entre na pasta do projeto:  
 ```sh
-cd nome-do-repositorio
+cd Projeto-Captei
 ```
 
 ---  
