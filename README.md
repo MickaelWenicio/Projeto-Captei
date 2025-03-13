@@ -43,7 +43,7 @@ cd Projeto-Captei
 1. Baixe o Elasticsearch pelo [site oficial](https://www.elastic.co/downloads/elasticsearch).  
 2. Extraia o conteúdo do arquivo baixado para um diretório de sua escolha.  
 3. Acesse a pasta extraída e entre no diretório **bin**, clique duas vezes no arquivo `elasticsearch.bat`.  
-4. Aguarde finalizar o processo, e após finalizado, **feche o elasticsearch(cmd)**.  
+4. Aguarde finalizar o processo, e após finalizado, **feche o elasticsearch**.  
 5. No diretório do **projeto**, abra a pasta `elasticsearch`.    
    - Dentro dela, existe apenas uma pasta chamada **`config`** com um arquivo.  
 6. **Copie** esse arquivo.  
