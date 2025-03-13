@@ -1,7 +1,3 @@
-Aqui está o README atualizado com a etapa de clonagem do repositório:  
-
----
-
 # 📌 Projeto de Captura e Indexação de Imóveis  
 
 Este projeto captura dados de imóveis de um portal e os indexa no **Elasticsearch** para buscas rápidas e eficientes. Ele utiliza **Node.js**, **PostgreSQL** e **Elasticsearch**.  
@@ -36,9 +32,8 @@ cd nome-do-repositorio
 ### 2️⃣ Instalar e configurar o **PostgreSQL**  
 1. Baixe e instale o PostgreSQL pelo [site oficial](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads).  
 2. O projeto usará por padrão o usuário `postgres`, que é o usuário padrão do banco.  
-3. No arquivo `.env` do projeto, configure as credenciais do banco de dados:  
+3. Renomeie o arquivo `example.env` do projeto para `.env` e configure com sua senha do banco de dados:  
    ```env
-   DB_USER=postgres
    DB_PASSWORD=sua_senha
    ```  
 
