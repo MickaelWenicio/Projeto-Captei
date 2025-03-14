@@ -40,21 +40,19 @@ cd Projeto-Captei
 ---  
 
 ### 3️⃣ Instalar e configurar o **Elasticsearch**  
+
+#### IMPORTANTE!! Siga exatamente a ordem abaixo para que funcione corretamente.
+
 1. Baixe o Elasticsearch pelo [site oficial](https://www.elastic.co/downloads/elasticsearch).  
 2. Extraia o conteúdo do arquivo baixado para um diretório de sua escolha.  
 3. Acesse a pasta extraída e entre no diretório **bin**, clique duas vezes no arquivo `elasticsearch.bat`.  
 4. Aguarde finalizar o processo, e após finalizado, **feche o elasticsearch**.  
-5. No diretório do **projeto**, abra a pasta `elasticsearch`.    
+5. No diretório do **PROJETO**, abra a pasta `elasticsearch`.    
    - Dentro dela, existe apenas uma pasta chamada **`config`** com um arquivo.  
 6. **Copie** esse arquivo.  
 7. Agora, vá até a pasta onde você **extraiu** o Elasticsearch.  
 8. Dentro da pasta extraída, localize o diretório `config`, acesse ele e **cole o arquivo** copiado, substituindo o arquivo existente.  
-9. Para iniciar o Elasticsearch, vá até a pasta `bin` novamente, dentro do diretório extraído e **execute o arquivo**:  
-   - **Windows**: Clique duas vezes no arquivo `elasticsearch.bat`.  
-   - **Linux/macOS**: No terminal, execute:  
-     ```sh
-     ./bin/elasticsearch
-     ```  
+9. Para iniciar o Elasticsearch, vá até a pasta `bin` novamente, dentro do diretório extraído e **execute o arquivo** `elasticsearch.bat`:  
 10. Aguarde o Elasticsearch iniciar e teste acessando [http://localhost:9200](http://localhost:9200) no navegador.  
     Se estiver funcionando, ele mostrará uma resposta JSON com informações sobre o serviço.  
 
